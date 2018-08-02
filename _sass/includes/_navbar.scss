@@ -6,6 +6,8 @@
     float: left;
     width: 100%;
 
+    border-bottom: 1px solid $border-color;
+
     a {
         color: $header-link-color;
     }

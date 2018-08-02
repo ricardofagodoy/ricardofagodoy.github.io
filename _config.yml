@@ -12,11 +12,11 @@ theme_settings:
   description: "Ricardo Godoy - ricardofagodoy developer blog" # used by search engines
 
   # Header and footer text
-  header_text: >
-     <p>Bem-vindo ao meu blog sobre tecnologia e desenvolvimento!</p>
-
-     <p>Tutoriais, artigos e opiniões sobre diversos assuntos.</p>
-  header_text_feature_image: assets/img/pexels/stars.jpg
+  #header_text: >
+  #   <p>Bem-vindo ao meu blog sobre tecnologia e desenvolvimento!</p>
+  #
+  #   <p>Tutoriais, artigos e opiniões sobre diversos assuntos.</p>
+  #header_text_feature_image: assets/img/pexels/stars.jpg
   footer_text: >
    Ricardo Godoy - 2017
 
