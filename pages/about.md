@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Sobre
-subtitle: Quem sou eu?
+title: Sobre mim
 permalink: /sobre/
-feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Sobre]
 ---
 
