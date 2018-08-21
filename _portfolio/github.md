@@ -3,7 +3,7 @@ layout: post
 title: Github
 img: "assets/img/portfolio/github.png"
 date: 20-10-2017
-tags: [github, projetos]
+tags: [github]
 ---
 
 ![image]({{ site.baseurl }}/assets/img/portfolio/github.png)

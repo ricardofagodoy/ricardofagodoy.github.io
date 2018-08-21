@@ -3,7 +3,7 @@ layout: post
 title: Find It!
 img: "assets/img/portfolio/findit.png"
 date: April, 24 2014
-tags: [jogo, game, find, android, ios, cordova]
+#tags: [jogo, game, find, android, ios, cordova]
 ---
 
 ![image]({{ site.baseurl }}/assets/img/portfolio/maze.png)

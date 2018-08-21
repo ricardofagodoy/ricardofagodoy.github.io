@@ -3,7 +3,7 @@ layout: post
 title: Jogo da Garrafa
 img: "assets/img/portfolio/garrafa.png"
 date: 15 December 2012
-tags: [aplicativo, garrafa, android, jogo]
+#tags: [aplicativo, garrafa, android, jogo]
 ---
 
 ![image]({{ site.baseurl }}/assets/img/portfolio/garrafa-inicial.png)
