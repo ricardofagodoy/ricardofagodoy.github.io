@@ -20,7 +20,7 @@ Gosto de bom código, limpo e simples. Desenvolver é um eterno aprendizado e na
 
 <b>Por isso estou escrevendo esse blog!</b>
 
-Atualmente atuo como Analista de Sistemas na <b>[Confidence](https://www.confidencecambio.com.br/)</b> sempre buscando inovação e desafios!
+Atualmente atuo como <i>Customer Solution Engineer</i> no <b>[Google](https://google.com)</b> sempre buscando inovação e desafios!
 
 Visite meus projetos, perfil ou me mande um e-mail!
 
